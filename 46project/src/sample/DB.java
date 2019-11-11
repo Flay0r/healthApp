@@ -37,7 +37,7 @@ public class DB {
      */
     static {
         Properties props = new Properties();
-        String fileName = "C:\\Users\\filip\\IdeaProjects\\untitled7\\db.properties";
+        String fileName = "C:\\Users\\jonas\\IdeaProjects\\healthApp\\46project\\src\\sample\\db.properties";
         InputStream input;
         try{
             input = new FileInputStream(fileName);
