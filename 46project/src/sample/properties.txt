@@ -1,4 +1,0 @@
-port= 1433
-databaseName= Project 43
-userName=sa
-password=123456
