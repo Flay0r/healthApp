@@ -3,7 +3,7 @@ package sample;
 import sample.DB;
 
 /**
- *JegPrøver
+ *
  * @author tha
  */
 public class DBTester {
