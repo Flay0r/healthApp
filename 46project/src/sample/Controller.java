@@ -1,5 +1,8 @@
 package sample;
 
 public class Controller {
-    //testestestest
+    public static String test()
+    {
+        return "Another one";
+    }
 }
