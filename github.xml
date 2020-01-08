@@ -3,5 +3,8 @@
     <account id="68c7409b-3447-49a7-84c1-d08e67323c31" name="jonas.black@hush.ai">
       <server host="github.com" />
     </account>
+    <account id="743d0b57-d635-49a3-a40c-c95ff265c103" name="jonas.black@hush.ai">
+      <server useHttp="false" host="github.com" />
+    </account>
   </component>
 </application>
