@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/AljoschaEASV/Canteen_System.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Flay0r/S2Exam.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\" />
